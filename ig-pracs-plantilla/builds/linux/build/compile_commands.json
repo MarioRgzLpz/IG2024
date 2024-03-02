@@ -1,0 +1,230 @@
+[
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/animacion.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/animacion.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/animacion.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/animacion.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/aplicacion-ig.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/aplicacion-ig.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/aplicacion-ig.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/aplicacion-ig.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/camara.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/camara.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/camara.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/camara.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/escena.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/escena.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/escena.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/escena.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-raton.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-raton.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-raton.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-raton.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-teclado.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-teclado.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-teclado.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-teclado.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/grafo-escena.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/grafo-escena.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/grafo-escena.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/grafo-escena.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/main.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/main.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/main.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/main.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-ind.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-ind.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-ind.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-ind.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-revol.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-revol.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-revol.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-revol.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/materiales-luces.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/materiales-luces.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/materiales-luces.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/materiales-luces.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/objeto3d.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/objeto3d.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/objeto3d.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/objeto3d.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/seleccion.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/seleccion.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/seleccion.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/seleccion.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/vaos-vbos.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/vaos-vbos.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/vaos-vbos.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/vaos-vbos.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/cauce.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/cauce.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/cauce.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/cauce.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/fbo.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/fbo.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/fbo.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/fbo.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/ig-aux.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/ig-aux.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/ig-aux.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/ig-aux.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-jpg.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-jpg.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-jpg.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-jpg.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -g -o CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-ply.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-ply.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-ply.cpp",
+  "output": "CMakeFiles/debug_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-ply.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/animacion.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/animacion.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/animacion.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/animacion.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/aplicacion-ig.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/aplicacion-ig.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/aplicacion-ig.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/aplicacion-ig.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/camara.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/camara.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/camara.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/camara.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/escena.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/escena.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/escena.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/escena.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-raton.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-raton.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-raton.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-raton.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-teclado.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-teclado.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-teclado.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/eventos-teclado.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/grafo-escena.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/grafo-escena.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/grafo-escena.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/grafo-escena.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/main.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/main.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/main.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/main.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-ind.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-ind.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-ind.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-ind.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-revol.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-revol.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-revol.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/malla-revol.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/materiales-luces.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/materiales-luces.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/materiales-luces.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/materiales-luces.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/objeto3d.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/objeto3d.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/objeto3d.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/objeto3d.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/seleccion.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/seleccion.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/seleccion.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/seleccion.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/vaos-vbos.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/vaos-vbos.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/vaos-vbos.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/src/vaos-vbos.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/cauce.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/cauce.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/cauce.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/cauce.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/fbo.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/fbo.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/fbo.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/fbo.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/ig-aux.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/ig-aux.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/ig-aux.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/ig-aux.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-jpg.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-jpg.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-jpg.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-jpg.cpp.o"
+},
+{
+  "directory": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/build",
+  "command": "/usr/bin/g++  -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../src -I/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/builds/linux/../../materiales/src-cpp  -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wno-unused-private-field -Wfatal-errors -g -O2 -o CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-ply.cpp.o -c /home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-ply.cpp",
+  "file": "/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-ply.cpp",
+  "output": "CMakeFiles/release_exe.dir/home/mariorgzlpz/Escritorio/IG2024/ig-pracs-plantilla/materiales/src-cpp/lector-ply.cpp.o"
+}
+]
